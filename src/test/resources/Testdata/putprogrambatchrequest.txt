@@ -1,0 +1,7 @@
+{
+  "batchDescription": "Computer",
+  "batchName": "SDET",
+  "batchNoOfClasses":10,
+  "batchStatus": "Active",
+  "programId": 16601
+ }

@@ -1,0 +1,74 @@
+[INFO ] 2024-04-02 16:24:17.504 [main] LoggerLoad - ***Admin sends No authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:18.397 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:21.602 [main] LoggerLoad - ****New program is created ****
+[INFO ] 2024-04-02 16:24:22.445 [main] LoggerLoad - Program created successfully with status code 201
+[INFO ] 2024-04-02 16:24:22.446 [main] LoggerLoad - Program Response body{"programId":16891,"programName":"team9RestASSuredHackathonMarch2061_SDET76","programDescription":"ComputerScience12932","programStatus":"Active","creationTime":"2024-04-02T20:24:22.208+00:00","lastModTime":"2024-04-02T20:24:22.208+00:00"}
+[INFO ] 2024-04-02 16:24:22.481 [main] LoggerLoad - Program created successfully with status code 201
+[INFO ] 2024-04-02 16:24:22.482 [main] LoggerLoad - Program Response body{"programId":16891,"programName":"team9RestASSuredHackathonMarch2061_SDET76","programDescription":"ComputerScience12932","programStatus":"Active","creationTime":"2024-04-02T20:24:22.208+00:00","lastModTime":"2024-04-02T20:24:22.208+00:00"}
+[INFO ] 2024-04-02 16:24:22.765 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:23.035 [main] LoggerLoad - ****Post Program request with Invalid EndPoint ****
+[INFO ] 2024-04-02 16:24:23.308 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:24.011 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[ERROR] 2024-04-02 16:24:24.169 [main] LoggerLoad - Response :io.restassured.internal.RestAssuredResponseImpl@5dc7881d
+[INFO ] 2024-04-02 16:24:24.220 [main] LoggerLoad - ***Admin sends No authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:24.635 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:25.146 [main] LoggerLoad - Response :io.restassured.internal.RestAssuredResponseImpl@396ec737
+[INFO ] 2024-04-02 16:24:25.438 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:25.964 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:26.443 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[ERROR] 2024-04-02 16:24:26.609 [main] LoggerLoad - Response :io.restassured.internal.RestAssuredResponseImpl@53b9952f
+[INFO ] 2024-04-02 16:24:26.648 [main] LoggerLoad - ***Admin sends No authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:27.275 [main] LoggerLoad - Get program details: 200
+[INFO ] 2024-04-02 16:24:30.461 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:30.918 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[ERROR] 2024-04-02 16:24:31.075 [main] LoggerLoad - Response :io.restassured.internal.RestAssuredResponseImpl@1acd2a14
+[INFO ] 2024-04-02 16:24:31.331 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[ERROR] 2024-04-02 16:24:31.476 [main] LoggerLoad - Response :io.restassured.internal.RestAssuredResponseImpl@6f6998b6
+[INFO ] 2024-04-02 16:24:31.741 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:32.065 [main] LoggerLoad - Response :io.restassured.internal.RestAssuredResponseImpl@2e76ade9
+[INFO ] 2024-04-02 16:24:32.304 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:32.717 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:33.095 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[ERROR] 2024-04-02 16:24:33.239 [main] LoggerLoad - Response :io.restassured.internal.RestAssuredResponseImpl@466bf366
+[INFO ] 2024-04-02 16:24:33.659 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:33.800 [main] LoggerLoad - ****program is updated ****
+[INFO ] 2024-04-02 16:24:33.831 [main] LoggerLoad - ***Admin sends No authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:34.205 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:34.605 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:35.019 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:35.414 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:35.785 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:36.171 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:36.551 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:36.949 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:37.090 [main] LoggerLoad - Expected status code 400 -BUG
+[INFO ] 2024-04-02 16:24:37.353 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:37.590 [main] LoggerLoad - Admin Sends Delete Program request for Invalid BaseURl and Valid Endpoint
+[INFO ] 2024-04-02 16:24:37.824 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:37.971 [main] LoggerLoad - Admin Sends Delete program request for InvalidEndpoint
+[INFO ] 2024-04-02 16:24:38.217 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:38.362 [main] LoggerLoad - Admin Sends Delete program request for InvalidMethod
+[ERROR] 2024-04-02 16:24:38.366 [main] LoggerLoad - Response :io.restassured.internal.RestAssuredResponseImpl@4beec7a1
+[INFO ] 2024-04-02 16:24:38.393 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:38.644 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:38.775 [main] LoggerLoad - Admin Sends Delete program request by ProgramID
+[INFO ] 2024-04-02 16:24:39.008 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:39.143 [main] LoggerLoad - Admin Sends Delete program request by ProgramID
+[INFO ] 2024-04-02 16:24:39.377 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:39.521 [main] LoggerLoad - Admin Sends Delete program request by ProgramID
+[INFO ] 2024-04-02 16:24:39.774 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:39.899 [main] LoggerLoad - Admin Sends Delete program request by ProgramID
+[INFO ] 2024-04-02 16:24:40.135 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:40.270 [main] LoggerLoad - Admin Sends Delete program request by ProgramID
+[INFO ] 2024-04-02 16:24:40.513 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:40.660 [main] LoggerLoad - Admin Sends Delete program request by ProgramID
+[INFO ] 2024-04-02 16:24:40.887 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:41.026 [main] LoggerLoad - Admin Sends Delete program request by ProgramID
+[INFO ] 2024-04-02 16:24:41.029 [main] LoggerLoad - Program Deleted successfully with status code 200
+[INFO ] 2024-04-02 16:24:41.268 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:41.399 [main] LoggerLoad - Admin Sends Delete program request by ProgramID with InvalidBase URL
+[INFO ] 2024-04-02 16:24:41.643 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:41.784 [main] LoggerLoad - Admin Sends Delete program request by ProgramID with valid baseurl and invalid endpoint
+[INFO ] 2024-04-02 16:24:42.025 [main] LoggerLoad - ***Admin sends authorization to LMSAPI***
+[INFO ] 2024-04-02 16:24:42.191 [main] LoggerLoad - Admin Sends Delete program request by ProgramID with valid invalid method 
+[ERROR] 2024-04-02 16:24:42.195 [main] LoggerLoad - Response :io.restassured.internal.RestAssuredResponseImpl@1633962a

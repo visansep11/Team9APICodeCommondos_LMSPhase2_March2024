@@ -1,0 +1,8 @@
+{
+  "batchDescription": "BatchRestAssured12",
+  "batchName": "BatchHackathonMarch12",
+  "batchNoOfClasses": 10,
+  "batchStatus": "Active",
+  "programId": 16692
+  
+}
